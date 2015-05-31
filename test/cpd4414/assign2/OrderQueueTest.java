@@ -34,7 +34,7 @@ import org.junit.Test;
 
 /**
  *
- * @author Len Payne <len.payne@lambtoncollege.ca>
+ * @author Vishakha
  */
 public class OrderQueueTest {
     private Object orderQueue;
